@@ -62,7 +62,7 @@ getstring ()
 {
   int thisbyte, stringcount;
   stringcount = 0;
-  while (thisbyte != 0)
+	while((thisbyte !=0) && (stringcount<20))
     {
       thisbyte = getc (inp);
       string[stringcount] = thisbyte;
