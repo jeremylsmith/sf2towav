@@ -10,4 +10,5 @@ Then when you want to extract from a target Soundfont (.SF2) file, right-click t
 
 It will then put the extracted WAVs in the folder of the target SF2.
 
+Note: The file SFSpec200b.rtf is the Soundfont 2.0 Technical Specification document, version 2.00b, May 2, 1997. This is hard to find online, so here it is!
 
